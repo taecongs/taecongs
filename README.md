@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 
 
+### 💻 &nbsp;GitHub Analytics
+
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:bks0927w@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
